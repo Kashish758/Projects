@@ -1,0 +1,12 @@
+---
+:id: 190662130
+:submitters:
+- :name: Lakshaya Jain
+  :email: mt1221933@maths.iitd.ac.in
+:created_at: !ruby/object:ActiveSupport::TimeWithZone
+  utc: 2023-09-06 12:02:28.284368000 Z
+  zone: !ruby/object:ActiveSupport::TimeZone
+    name: America/Los_Angeles
+  time: 2023-09-06 05:02:28.284368000 Z
+:status: processed
+:score: 100.0
